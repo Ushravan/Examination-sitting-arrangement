@@ -1,5 +1,6 @@
 # Examination-sitting-arrangement
-INTRODUCTION
+
+                  INTRODUCTION
 The purpose of developing exam hall seating arrangement
 system is to computerized the traditional way of conducting
 exams and help staffs in allocating exam hall easily without
