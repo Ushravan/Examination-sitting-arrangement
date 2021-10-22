@@ -137,32 +137,9 @@ public class frame3 extends JFrame {
 							
 						}
 						
-					
-					
-						
-						
-					
-
-
-					
+								
 				}
-			}
-				
-				
-					
-						
-						
-						
-						
-						
-						
-					
-				
-				
-				
-				
-				
-				
+			}		
 			
 		});
 		btnUploadExcelFile.setBounds(536, 95, 169, 23);
@@ -239,11 +216,7 @@ public class frame3 extends JFrame {
 							// TODO Auto-generated catch block
 							e1.printStackTrace();
 							
-						}
-	
-			
-				
-				
+						}	
 				
 				
 				}}
@@ -308,13 +281,7 @@ public class frame3 extends JFrame {
 							// TODO Auto-generated catch block
 							e1.printStackTrace();
 							
-						}
-						
-					
-					
-						
-						
-					
+						}		
 
 
 					
